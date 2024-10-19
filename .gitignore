@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Typescript
+*.tsbuildinfo
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Debugging files
+.vscode/
+.idea/
+.DS_Store
+
+# Sequelize migrations and seeders
+migrations/
+seeders/
+
+# Optional coverage reports
+coverage/
+
+# ESLint cache
+.eslintcache
+
+# IDE/editor specific
+*.swp
+*.swo
+
+# OS files
+Thumbs.db
+.DS_Store
